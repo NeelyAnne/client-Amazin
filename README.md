@@ -18,6 +18,8 @@ This project required us to create the foundation of our app from scratch, not u
 
 My contribution to the Amazin application was the comparison grid chart that allows users to compare models of the same brand in oredr to choose the best product. This allows the users to compare things like price, color options, size, luxury, and a multitude of different categories that vary between differnt types of products. This table was created using Google's Material UI for React with mapping altercations to get the information to present in the correct order. A picture of the table for the first product has been included below.
 
+![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
+
 ## **Instructions for Use:**
 
 To run it locally:
