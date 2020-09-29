@@ -2,9 +2,7 @@
 
 Created by Talent Path's 'Quaran-Team' of full stack developers located in Atlanta, GA and Houston, TX.
 
-![alt text](https://github.com/Quaran-Team/client-Amazin/blob/master/amazinscreen.JPG "Screen shot from the Amazin' App mock e-commerce site")
-
----
+## **Description:**
 
 The main goal of this project was to practice weekly agile sprints by creating an e-commerce product page(s) for 20 items in a very similar theme to the commonly known retail site Amazon.
 
@@ -15,6 +13,10 @@ The server can be found here _-_ GitHub Repo = https://github.com/Quaran-Team/se
 Amazin is currently not deployed, but includes everything necessary for you to download each repository and run on local host.
 
 This project required us to create the foundation of our app from scratch, not utilizing code generators such as create-react-app. Amazin is written in JavaScript and is configured via webpack and package. json using node modules. We also limited the number of external libraries and frameworks as much as possible, and due to time constraints, some parts are just static mocks while others are fully dynamic.
+
+## **My Personal Contribution:**
+
+My contribution to the Amazin application was the comparison grid chart that allows users to compare models of the same brand in oredr to choose the best product. This allows the users to compare things like price, color options, size, luxury, and a multitude of different categories that vary between differnt types of products. This table was created using Google's Material UI for React with mapping altercations to get the information to present in the correct order. A picture of the table for the first product has been included below.
 
 ## **Instructions for Use:**
 
@@ -45,6 +47,8 @@ To run it locally:
  - Most things will not appear correctly without also having the server (link listed above) running.
 
 (6.) (Optional) 'npm test' will run all the pre-written tests 
+
+![alt text](https://github.com/Quaran-Team/client-Amazin/blob/master/amazinscreen.JPG "Screen shot from the Amazin' App mock e-commerce site")
 
 ---
 
