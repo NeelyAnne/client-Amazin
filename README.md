@@ -19,7 +19,9 @@ This project required us to create the foundation of our app from scratch, not u
 ## **Instructions for Use:**
 
 To run it locally:
+
 (1.) Clone the repository
+
 (2.) Open Terminal or your command line interface of choice and run 'npm install' to download any required node modules
 
  - If you are unfamiliar with npm visit https://www.npmjs.com/get-npm
@@ -46,7 +48,7 @@ To run it locally:
 
 ---
 
-**The Quaran-Team consists of:**
+## **The Quaran-Team consists of:**
 
 - Bilikis Orulebaja
   - https://github.com/borulebaja
