@@ -4,15 +4,17 @@ Created by Talent Path's 'Quaran-Team' of full stack developers located in Atlan
 
 ## **Description:**
 
-The main goal of this project was to practice weekly agile sprints by creating an e-commerce product page(s) for 20 items in a very similar theme to the commonly known retail site Amazon.
+The main goal of this project was to practice weekly agile sprints by creating an e-commerce product page(s) for 20 items in a very similar theme to the commonly known retail site Amazon. Each team member contributed to the database, the server, and the client for their own component to ensure a full understanding of a complete stack.
 
-Each team member contributed to the database, the server, and the client for their own component to ensure a full understanding of a complete stack.
+The server can be found here _-_ GitHub Repo = https://github.com/NeelyAnne/server-Amazin .
 
-The server can be found here _-_ GitHub Repo = https://github.com/Quaran-Team/server-Amazin .
-
-Amazin is currently not deployed, but includes everything necessary for you to download each repository and run on local host.
+Amazin is currently not deployed, but includes everything necessary for you to download each repository and run on local host and a demo of the live site can be found in the YouTube link in the section below.
 
 This project required us to create the foundation of our app from scratch, not utilizing code generators such as create-react-app. Amazin is written in JavaScript and is configured via webpack and package. json using node modules. We also limited the number of external libraries and frameworks as much as possible, and due to time constraints, some parts are just static mocks while others are fully dynamic.
+
+## **Demo Link:**
+
+https://www.youtube.com/watch?v=kjp33e7CMuE&feature=youtu.be
 
 ## **My Personal Contribution:**
 
@@ -52,7 +54,31 @@ To run it locally:
 
 ![alt text](https://github.com/Quaran-Team/client-Amazin/blob/master/amazinscreen.JPG "Screen shot from the Amazin' App mock e-commerce site")
 
----
+## **Technologies:**
+
+- JavaScript
+- NodeJS
+- ReactJS
+- HTML
+- CSS
+- WebPack
+- Jest
+- FontAwesome
+- Material U/I
+- Enzyme
+- Bootstrap
+- Babel
+
+## **Model/Collections:**
+- Items
+- Images
+- Other
+- Questions
+- Answers
+- Reviews
+- Stars
+- Product Variants
+- URLs
 
 ## **The Quaran-Team consists of:**
 
@@ -74,23 +100,6 @@ To run it locally:
 **Led by management team:**
 
 Fred Zirdung and Jothi Nedungadi
-
-## **Languages/Technologies:**
-
-- JavaScript
-- NodeJS
-- ReactJS
-- HTML
-- CSS
-- WebPack
-- Jest
-- FontAwesome
-- Material U/I
-- Enzyme
-- Bootstrap
-- Babel
-
----
 
 All rights reserved by Talent Path 2020
 a division of Genuent.
