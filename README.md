@@ -8,7 +8,7 @@ The main goal of this project was to practice weekly agile sprints by creating a
 
 The server can be found here _-_ GitHub Repo = https://github.com/NeelyAnne/server-Amazin .
 
-Amazin is currently not deployed, but includes everything necessary for you to download each repository and run on local host and a demo of the live site can be found in the YouTube link in the section below.
+Amazin is currently not deployed, but includes everything necessary for you to clone each repository and run the application locally, or a demo of the live site can be found in the YouTube link in the section below.
 
 This project required us to create the foundation of our app from scratch, not utilizing code generators such as create-react-app. Amazin is written in JavaScript and is configured via webpack and package. json using node modules. We also limited the number of external libraries and frameworks as much as possible, and due to time constraints, some parts are just static mocks while others are fully dynamic.
 
@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=kjp33e7CMuE&feature=youtu.be
 
 ## **My Personal Contribution:**
 
-My contribution to the Amazin application was the comparison grid chart that allows users to compare models of the same brand in order to choose the best product. This allows the users to compare things like price, color options, size, luxury, and a multitude of different categories that vary between different types of products. This table was created using Google's Material UI for React with mapping alterations to get the information to present in the correct order. A picture of the table for a microwave product has been included below.
+My contribution to the Amazin application was the comparison grid chart that allows users to compare models of the same brand in order to choose the best product. This allows the users to compare things like price, color options, size, luxury, and a multitude of different categories that vary between different types of products. This table was created using Google's Material UI for React with mapping alterations to get the information to present in the correct order, and the images for each product are pulled from an Amazon S3 bucket. A picture of the table for a blender product has been included below.
 
 ![alt text](https://github.com/NeelyAnne/client-Amazin/blob/master/public/images/grid.png "Comparison Grid Photo")
 
